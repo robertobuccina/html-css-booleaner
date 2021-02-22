@@ -1,0 +1,74 @@
+
+*{font-weight: bold;
+}
+
+header{
+height: 130px;
+background: rgb(99, 153, 223);
+background-image:url("pattern.png");
+background-size: 500px;
+}
+
+.logo{
+width: 250px;
+padding: 50px 0 100px 200px;
+}
+
+#title{
+font-size: 45px;
+font-weight: bold;
+margin-top: 10px;
+}
+
+.grey-text{
+color: grey;
+line-height: 0px;
+}
+
+.img-berners{
+margin-top: 20px;
+}
+
+.layout{
+ margin: 0 200px 0 200px;
+}
+
+.caption-foto{
+font-size: small; 
+}
+
+ul{
+margin:20px 0px 20px 15px; 
+padding:0;
+}
+
+.box1{
+background-image:url("monitor.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+width: 250px;
+height: 200px;
+}
+
+.box2{
+background-image:url("graph.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+width: 250px;
+height: 200px;
+}
+
+#white-text{
+ color: white;
+ padding:8px;
+ font-size: 20px;   
+}
+ 
+th,td{
+text-align: left;   
+}
+
+.blu-line tr{
+background: rgb(57, 175, 239);
+}
+
